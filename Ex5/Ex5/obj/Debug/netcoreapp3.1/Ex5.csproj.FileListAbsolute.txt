@@ -1,0 +1,13 @@
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+C:\Users\lucas\Downloads\Exercecios\Ex5\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache
