@@ -1,0 +1,13 @@
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\bin\Debug\netcoreapp3.1\Ex4.exe
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\bin\Debug\netcoreapp3.1\Ex4.deps.json
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.json
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.dev.json
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\bin\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\bin\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\lucas\Downloads\Exercecios\Ex4\Ex4\obj\Debug\netcoreapp3.1\Ex4.genruntimeconfig.cache
